@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Professional-Portfolio/static/css/main.58918577.css",
-    "main.js": "/Professional-Portfolio/static/js/main.167befa3.js",
+    "main.css": "/Professional-Portfolio/static/css/main.61af46e6.css",
+    "main.js": "/Professional-Portfolio/static/js/main.ca92fb61.js",
     "static/media/towers.jpg": "/Professional-Portfolio/static/media/towers.9c8584dd5a4d7a19e39d.jpg",
     "static/media/mbydad.jpg": "/Professional-Portfolio/static/media/mbydad.61a2ee6ee857bdef5118.jpg",
+    "static/media/AyubegalResume2023 .pdf": "/Professional-Portfolio/static/media/AyubegalResume2023 .a4d1758fefe163ef40e2.pdf",
     "static/media/invaders.jpg": "/Professional-Portfolio/static/media/invaders.48e44347f63a90b99566.jpg",
     "static/media/spring.png": "/Professional-Portfolio/static/media/spring.7ffbe3c72f4d4e57dc5d.png",
     "static/media/react.png": "/Professional-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -15,11 +16,11 @@
     "static/media/Ayub.png": "/Professional-Portfolio/static/media/Ayub.0cf722b7007046e72c5f.png",
     "static/media/javascript.png": "/Professional-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Professional-Portfolio/index.html",
-    "main.58918577.css.map": "/Professional-Portfolio/static/css/main.58918577.css.map",
-    "main.167befa3.js.map": "/Professional-Portfolio/static/js/main.167befa3.js.map"
+    "main.61af46e6.css.map": "/Professional-Portfolio/static/css/main.61af46e6.css.map",
+    "main.ca92fb61.js.map": "/Professional-Portfolio/static/js/main.ca92fb61.js.map"
   },
   "entrypoints": [
-    "static/css/main.58918577.css",
-    "static/js/main.167befa3.js"
+    "static/css/main.61af46e6.css",
+    "static/js/main.ca92fb61.js"
   ]
 }
