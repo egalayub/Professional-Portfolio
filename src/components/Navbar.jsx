@@ -5,6 +5,7 @@ import {BsFillPersonLinesFill} from 'react-icons/bs';
 import Logo from '../assets/Ayublogo.jpg';
 import {Link} from 'react-scroll';
 import Ayub from '../assets/Ayub.png';
+import Resume from '../assets/AyubegalResume2023 .pdf';
 const Navbar = () => {
     const[nav, setNav] = useState(false)
     const handleClick = () => setNav(!nav)
@@ -67,7 +68,7 @@ const Navbar = () => {
         </li>
         <li className='py-6 text -4xl '>
         {' '}
-        <Link onClick={handleClick} to="work"  smooth={true}  duration={500} >
+        <Link onClick={handleClick} to='work' smooth={true}  duration={500} >
           Projects
         </Link>
         </li>
@@ -101,7 +102,7 @@ const Navbar = () => {
         </li>
         <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-500'>
             <a className='flex justify-between items-center w-full text-gray-300'
-            href="https://docs.google.com/document/d/1pbj0M5xLYeI3oLBR48xHNSIFDQrjOS8n0IdBooFkrKY/edit"target="_blank" rel="noreferrer" >
+            href={Resume} target="_blank" rel="noreferrer" >
                 Resume < BsFillPersonLinesFill size={30}/>
             </a>
         </li>
