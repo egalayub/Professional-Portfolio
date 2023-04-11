@@ -5,7 +5,7 @@ import {BsFillPersonLinesFill} from 'react-icons/bs';
 import Logo from '../assets/Ayublogo.jpg';
 import {Link} from 'react-scroll';
 import Ayub from '../assets/Ayub.png';
-import Resume from '../assets/AyubegalResume2023 .pdf';
+import Resume from '../assets/AyubegalResume2023(1).pdf';
 const Navbar = () => {
     const[nav, setNav] = useState(false)
     const handleClick = () => setNav(!nav)
@@ -46,7 +46,7 @@ const Navbar = () => {
 <div onClick={handleClick} className='md:hidden z-10'>
     {!nav ? <FaBars/> : <FaTimes/>}
 </div>
-{/* Mobile EMnu */}
+{/* Mobile menu */}
 <ul className= {!nav ? 'hidden' :  'absolute top-0 left-0 w-full h-screen bg-green-950 flex flex-col justify-center items-center'}>
          <li className='py-6 text -4xl  '>
             {' '}
