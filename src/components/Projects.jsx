@@ -2,8 +2,6 @@ import React from 'react'
 import meals from '../assets/mbydad.jpg';
 import myPet from '../assets/mypet.jpg';
 import invader from '../assets/invaders.jpg';
-import WorkImg from '../assets/towers.jpg';
-
 const Projects = () => {
   return (
     <div name = 'work' className='w-ful md:h-screen text-gray-300 bg-green-950'>

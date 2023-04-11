@@ -2,10 +2,9 @@ import React, {useState} from 'react';
 import {FaBars, FaTimes,FaGithub,FaLinkedin} from 'react-icons/fa';
 import{HiOutlineMail} from 'react-icons/hi';
 import {BsFillPersonLinesFill} from 'react-icons/bs';
-import Logo from '../assets/Ayublogo.jpg';
 import {Link} from 'react-scroll';
 import Ayub from '../assets/Ayub.png';
-import Resume from '../assets/AyubegalResume2023(1).pdf';
+import Resume from '../assets/AyubEgalResume2023.pdf';
 const Navbar = () => {
     const[nav, setNav] = useState(false)
     const handleClick = () => setNav(!nav)
