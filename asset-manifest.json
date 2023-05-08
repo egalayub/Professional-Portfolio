@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/Professional-Portfolio/static/css/main.61af46e6.css",
-    "main.js": "/Professional-Portfolio/static/js/main.ce01d718.js",
+    "main.js": "/Professional-Portfolio/static/js/main.dd943e66.js",
+    "static/media/CryptoPedia.jpg": "/Professional-Portfolio/static/media/CryptoPedia.594cefd9cf17118d2f12.jpg",
     "static/media/mbydad.jpg": "/Professional-Portfolio/static/media/mbydad.61a2ee6ee857bdef5118.jpg",
     "static/media/invaders.jpg": "/Professional-Portfolio/static/media/invaders.48e44347f63a90b99566.jpg",
     "static/media/AyubEgalResume2023.pdf": "/Professional-Portfolio/static/media/AyubEgalResume2023.fa310c7d6df7639326a6.pdf",
@@ -16,10 +17,10 @@
     "static/media/javascript.png": "/Professional-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Professional-Portfolio/index.html",
     "main.61af46e6.css.map": "/Professional-Portfolio/static/css/main.61af46e6.css.map",
-    "main.ce01d718.js.map": "/Professional-Portfolio/static/js/main.ce01d718.js.map"
+    "main.dd943e66.js.map": "/Professional-Portfolio/static/js/main.dd943e66.js.map"
   },
   "entrypoints": [
     "static/css/main.61af46e6.css",
-    "static/js/main.ce01d718.js"
+    "static/js/main.dd943e66.js"
   ]
 }
